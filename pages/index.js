@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 import { Popover, PopoverTrigger, PopoverContent } from "@/components/ui/popover";
 
+
 const fixtures = [
   {
     area: "Gaming Room",
@@ -48,6 +49,7 @@ const fixtures = [
     ]
   }
 ];
+
 
 export default function FitoutMobileApp() {
   const [openSections, setOpenSections] = useState({});
