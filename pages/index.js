@@ -45,4 +45,4 @@ const fixtures = [
   }
 ];
 
-export defau
+export defaut
